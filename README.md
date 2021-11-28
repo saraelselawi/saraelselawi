@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <br/> 
-### 🔨 Languages and Tools:
+🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg" align="left" alt="git" height='42px'/> </a>
@@ -27,7 +27,7 @@
 <br/>
 <br/> 
 
-### 📊 Github Stats
+ 📊 Github Stats
 
 ![saraelselawi' github stats](https://github-readme-stats.vercel.app/api?username=saraelselawi&show_icons=true&count_private=true&bg_color=22272E&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&hide_rank=true)
 
