@@ -19,9 +19,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/figma/figma.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="assets/Adobe_XD_CC_icon.svg" align="left" alt="git" height='42px'/> </a>
 
-<br/>
-<br/>
-<br/> 
+<br>
+<br>
+<br> 
+<br> 
+<br> 
 
 ### 📊 Github Stats
 
