@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hey 👋, I'm Sara Elselawi!
+<a href='https://www.linkedin.com/in/sara-elselawi-614a25186/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.behance.net/sarahassan7'><img align='left' alt="behance" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+
 
 ### 🔨 Languages and Tools:
 
@@ -13,21 +16,22 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/figma/figma.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FAdobe_XD&psig=AOvVaw0juuCzqyEBQd-bvOVSsyO3&ust=1638179630052000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCs9-nkuvQCFQAAAAAdAAAAABAD" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="" align="left" alt="git" height='42px'/> </a>
 
 <br/>
 <br/>
 <br/> 
 
-### 📊 Github Stats:
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/saraelselawi/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/saraelselawi/github-stats-transparent/output/generated/languages.svg)
 
-
-![saraelselawi' github stats](https://github-readme-stats.vercel.app/api?username=saraelselawi&show_icons=true&count_private=true&bg_color=130,141E30,243B55&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&hide_rank=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraelselawi&hide=mako,python&layout=compact&card_width=445&bg_color=141E30&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 <!--
-**cMikolai/cMikolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saraelselawi/saraelselawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
