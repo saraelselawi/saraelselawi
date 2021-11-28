@@ -13,6 +13,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/figma/figma.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FAdobe_XD&psig=AOvVaw0juuCzqyEBQd-bvOVSsyO3&ust=1638179630052000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCs9-nkuvQCFQAAAAAdAAAAABAD" align="left" alt="git" height='42px'/> </a>
 
 <br/>
 <br/>
